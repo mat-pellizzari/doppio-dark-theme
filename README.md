@@ -12,4 +12,4 @@
 - run code --install-extension doppio-dark-0.0.1.vsix **or** copy it into the "<user home>/.vscode/extensions"
 
 
-
+![demonstration](https://github.com/mat-pellizzari/doppio-dark-theme/blob/master/resources/Screenshot%202025-11-04%20050716.png)
